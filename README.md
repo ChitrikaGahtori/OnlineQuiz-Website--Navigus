@@ -5,7 +5,7 @@
 
 ## Admin
 
-#### 1.Login to the admin account.
+##### 1.Login to the admin account.
 #### 2.After Login, can see Total Number Of Student, Teacher, Course, Questions are there in system on Dashboard.
 #### 3.Can View, Update, Delete, Approve Teacher.
 #### 4.Can View, Update, Delete Student.
