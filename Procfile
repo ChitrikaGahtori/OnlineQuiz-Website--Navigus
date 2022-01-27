@@ -1,1 +1,3 @@
-web: waitress-serve --port=$PORT onlinequiz.wsgi:application
+web: gunicorn appname.wsgi:application --log-file - --log-level debug 
+python manage.py collectstatic --noinput 
+manage.py migrate
