@@ -25,3 +25,12 @@
 
 #### NOTE: Basically Admin Will Hire Teachers To Manage Courses and Questions.
 
+
+## Student
+
+#### 1.Create account (No Approval Required By Admin, Can Login After Signup)
+#### 2.After Login, Can See How Many Courses/Exam And Questions Are There In System On Dashboard.
+#### 3.Can Give Exam Any Time, There Is No Limit On Number Of Attempt.
+#### 4.Can View Marks Of Each Attempt Of Each Exam.
+#### 5.Question Pattern Is MCQ With 4 Options And 1 Correct Answer.
+
