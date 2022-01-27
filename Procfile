@@ -1,1 +1,1 @@
-web: gunicorn onlinequiz.wsgi
+web: waitress-serve --port=$PORT onlinequiz.wsgi:application
